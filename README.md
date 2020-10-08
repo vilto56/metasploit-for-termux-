@@ -22,3 +22,4 @@ chmod +x metasploit.sh
 # And run msfconsole
 msfconsole
 good luck
+Dont use for any illegal activities 
